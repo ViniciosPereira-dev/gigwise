@@ -128,4 +128,10 @@ Novas entidades poderão ser adicionadas conforme o produto evoluir, como:
 * Notification
 * SyncJob
 
+#Enumerações do Domínio
+Platform
+GoalPeriod
+ExpenseCategory
+TripSource
+
 Toda nova entidade deverá ser analisada sob a perspectiva do domínio antes de ser incorporada à arquitetura da aplicação.
